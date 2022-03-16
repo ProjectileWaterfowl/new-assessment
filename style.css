@@ -1,5 +1,24 @@
 /* add code here to make your image 300px square */
-
-/* add code here to change the color and font family of your name/title */
-
-/* Bonus: change the color of your list elements */
+#pet {
+    width: 300px;
+    length: 300px;
+  }
+  
+  h1 {
+    font-family: "arial";
+    color: teal;
+  }
+  /* add code here to change the color and font family of your name/title */
+  
+  #item1 {
+    color: red;
+  }
+  
+  #item2 {
+    color: royalblue;
+  }
+  
+  #item3 {
+    color: blueviolet;
+  }
+  /* Bonus: change the color of your list elements */
